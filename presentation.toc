@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Introducere}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Ce este aplicația mea web?}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Tehnologii folosite}{4}{0}{1}
+\beamer@sectionintoc {2}{Ce cuprinde aplicația web?}{5}{0}{2}
+\beamer@sectionintoc {3}{Ce urmează să implementez pe viitor?}{13}{0}{3}
+\beamer@sectionintoc {4}{Concluzie}{15}{0}{4}
+\beamer@sectionintoc {5}{Bibliografie}{16}{0}{5}
